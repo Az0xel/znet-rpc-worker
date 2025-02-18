@@ -1,0 +1,6 @@
+name = "znet-rpc"
+main = "worker.js"
+compatibility_date = "2024-02-16"
+
+[vars]
+NODE_RPC_URL = "http://217.70.184.38:8449" 
